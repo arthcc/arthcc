@@ -1,4 +1,4 @@
-# Estatisticas de Linguagens:
+# Estatísticas de Linguagens:
 
 <div>
 <a href="https://github.com/arthcc">
