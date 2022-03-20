@@ -3,7 +3,7 @@ Hey, my name is Arthur. :wave:
 Learning Python 
 I´m in the 1st semester of computer science, here in Brazil.
 
-I post here all the projects and basic codes i do when i practice coding. You can correct me if you see something wrong or a better way to code better since i´m still learning. I´d to recive some tips to, so if you would like to share a tip with me, i´d appreciate! 
+I post here all the projects and basic codes i do when i practice coding. You can correct me if you see something wrong or a better way to code since i´m still learning. I´d to recive some tips to, so if you would like to share a tip with me, i´d appreciate! 
 :handshake:
 
 
