@@ -4,7 +4,7 @@ Hey, my name is Arthur. :wave:
 | I´m in the 1st semester of computer science, here in Brazil.
 
 
-Im just a beginner, so please if you see something wrong or a better way to write that code you saw, please contact me.I am here just to learn since my skills are not that good, so i´d like a lot to recieve any tips or help. Thanks for reading! 
+Im just a beginner, so please if you see something wrong or a better way to code better, please contact me. I am here just to learn since my skills are not that good, so i´d like a lot to recieve any tips or help. Thanks for reading! 
 :handshake:
 
 
