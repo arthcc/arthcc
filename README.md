@@ -2,9 +2,9 @@ Hey, my name is Arthur. :wave:
 | 18 years old
 | Learning Python 
 | I´m in the 1st semester of computer science, here in Brazil.
-| You can contact me in: Ensglis, Portuguese, German and Spanish 
 
-I,m just a beginner, so please if you see something wrong or a better way to write that code you saw, please contact me.I am here just to learn since my skills are not that good, so i´d like a lot to recieve any tips or help. Thanks for reading! 
+
+Im just a beginner, so please if you see something wrong or a better way to write that code you saw, please contact me.I am here just to learn since my skills are not that good, so i´d like a lot to recieve any tips or help. Thanks for reading! 
 :handshake:
 
 
