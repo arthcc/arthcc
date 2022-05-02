@@ -1,15 +1,15 @@
-Hey, my name is Arthur. :wave:
-| 18 years old
-| Learning Python 
-| I´m in the 1st semester of computer science, here in Brazil.
+## :memo: About Me
+Hey Everyone, my name is Arthur, I´m 18 years old, currently learning Python, HTML, CSS and JavaScript </br> I´m in the 1st semester of Computer Science Degree, here in Brazil.
 
 
-I´m just a beginner, so please if you see something wrong or a better way to code better, please contact me. I am here just to learn since my skills are not that good, so i´d like a lot to recieve any tips or help. Thanks for reading! 
+As a beginner i can make a lot of mistakes, so please if you see something wrong or a better way to code, contact me. I am here just to learn since my skills are not that good, I´d like a lot to receive any tips or help. Thanks for reading! 
 :handshake:
+## ☎️ Contact Information
+<a href="//www.linkedin.com/in/arthcc/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />   <a href="//www.github.com/arthcc"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
+<a href="//www.instagram.com/arthxcx"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 
-
-<div>
-<a href="https://github.com/arthcc">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthcc&layout=compact&langs_count=7&theme=dracula"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=arthcc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## :wrench: Improving My Skills by Practicing Using:
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
