@@ -1,5 +1,5 @@
 ## :memo: About Me
-Hey Everyone, my name is Arthur, I´m 18 years old, currently in the 2nd semester of Computer Science Degree, here in Brazil.
+Hey Everyone, my name is Arthur, I´m 19 years old, currently in the 2nd semester of Computer Science Degree, here in Brazil.
 
 
 As a beginner i can make a lot of mistakes, so please if you see something wrong or a better way to code, contact me. I am here just to learn since my skills are not that good, I´d like a lot to receive any tips or help. Thanks for reading! 
