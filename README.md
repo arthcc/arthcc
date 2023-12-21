@@ -1,8 +1,7 @@
 <h3> 👨‍🦱: &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Computer Science at <a href="https://www.unifeso.edu.br">UNIFESO</a>.
-- 💼 &nbsp; Working at <a href="https://www.alterdata.com.br">Alterdata Software</a>
-- 🌱 &nbsp; Learning more about **.NET, VueJS, C++, POO e Clean Code*.
+
 
 <h3> :rocket: &nbsp; Skills </h3>
 
