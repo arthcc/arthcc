@@ -1,23 +1,26 @@
-<h3> 👨‍🦱: &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Computer Science at <a href="https://www.unifeso.edu.br">UNIFESO</a>.
+## 🚀 About Me
 
-
-<h3> :rocket: &nbsp; Skills </h3>
-
-**Apps and Data**
-
- 
-  ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-  ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+My name is Arthur, I´m from Brazil and i have 20 yo. 
+I started programming when I was 17 years old, and since then I have dreamed of making the world a better place through one of my passions, which is technology. I´m graduating with Computer Science degree (expected to finish in 2025), and worked as a Jr. Support Analyst at @AlterdataSoftware (2022-2023).         
+One of my main goals is to worl aboard and be able 
 
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
-[![Linkedin: arthcc](https://img.shields.io/badge/-arthcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthcc/)](https://www.linkedin.com/in/arthcc/)
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthcc)
 [![Gmail Badge](https://img.shields.io/badge/-arthurdaconceicaocunha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:arthurdaconceicaocunha@gmail.com)
-[![GitHub arthcc]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](github.com/arthcc)
+
+
+
+## 🛠 Stacks
+
+**Front-end:** React, NextJS
+
+**Back-end:** .NET, Java, Python
+
+**Data-Base**: PostgreSQL, SQL Server
+
+**DevOps**: Jira, AzureDevOps
 
