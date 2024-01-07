@@ -15,7 +15,7 @@
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-<h3> :earth_americas: &nbsp;Where to fine me: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 [![Linkedin: arthcc](https://img.shields.io/badge/-arthcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthcc/)](https://www.linkedin.com/in/arthcc/)
 [![Gmail Badge](https://img.shields.io/badge/-arthurdaconceicaocunha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:arthurdaconceicaocunha@gmail.com)
