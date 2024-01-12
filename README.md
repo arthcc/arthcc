@@ -6,14 +6,6 @@ I started programming when I was 17 years old, and since then I have dreamed of 
 One of my main goals is to work aboard and be able to build a better world doing what I love. 
 
 
-
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthcc)
-[![Gmail Badge](https://img.shields.io/badge/-arthurdaconceicaocunha@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:arthurdaconceicaocunha@gmail.com)
-
-
-
 ## 🛠 Stacks
 
 **Front-end:** React, NextJS
