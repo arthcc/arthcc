@@ -3,7 +3,7 @@
 
 My name is Arthur, I´m from Brazil and i have 20 yo. 
 I started programming when I was 17 years old, and since then I have dreamed of making the world a better place through one of my passions, which is technology. I´m graduating with Computer Science degree (expected to finish in 2025), and worked as a Jr. Support Analyst at @AlterdataSoftware (2022-2023).         
-One of my main goals is to worl aboard and be able 
+One of my main goals is to work aboard and be able to build a better world doing what I love. 
 
 
 
