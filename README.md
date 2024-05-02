@@ -1,18 +1,18 @@
 
 ## 🚀 About Me
 
-My name is Arthur, I´m from Brazil and i have 20 yo. 
-I started programming when I was 17 years old, and since then I have dreamed of making the world a better place through one of my passions, which is technology. I´m graduating with Computer Science degree (expected to finish in 2025), and worked as a Jr. Support Analyst at @AlterdataSoftware (2022-2023).         
-One of my main goals is to work aboard and be able to build a better world doing what I love. 
+Hello, I'm Arthur from Brazil, a 20-year-old aspiring technologist. Since delving into programming at 17, I've been driven by a passion for using technology to make a positive impact on the world. Currently pursuing a degree in Computer Science (expected 2025), I've gained practical experience as a Jr. Support Analyst at @AlterdataSoftware (2022-2023).
 
+My goal? To work internationally, leveraging my skills to contribute to global progress. Proficient in:
 
 ## 🛠 Stacks
 
 **Front-end:** React, NextJS
 
-**Back-end:** .NET, Java, Python
+**Back-end:** .NET, Java, Python, NodeJS, NestJs
 
 **Data-Base**: PostgreSQL, SQL Server
 
 **DevOps**: Jira, AzureDevOps
 
+## You can see all my articles and projects also [here](https://arthdev.vercel.app)
