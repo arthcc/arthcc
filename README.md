@@ -15,4 +15,4 @@ My goal? To work internationally, leveraging my skills to contribute to global p
 
 **DevOps**: Jira, AzureDevOps
 
-## You can see all my articles and projects also [here](https://arthdev.vercel.app)
+### You can see all my articles and projects [here](https://arthdev.vercel.app) 😄
