@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-Hello, I'm Arthur from Brazil, a 20-year-old aspiring technologist. Since delving into programming at 17, I've been driven by a passion for using technology to make a positive impact on the world. Currently pursuing a degree in Computer Science (expected 2025), I've gained practical experience as a Jr. Support Analyst at @AlterdataSoftware (2022-2023).
+Hello, I'm Arthur from Brazil, a 20-year-old aspiring technologist. Since delving into programming at 17, I've been driven by a passion for using technology to make a positive impact on the world. Currently pursuing a degree in Computer Science (expected 2025). Currently I am working as a trainee Backend Developer at a Startup called DentalDash
 
 My goal? To work internationally, leveraging my skills to contribute to global progress. Proficient in:
 
