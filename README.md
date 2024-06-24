@@ -9,9 +9,9 @@ My goal? To work internationally, leveraging my skills to contribute to global p
 
 **Front-end:** React, NextJS
 
-**Back-end:** .NET, Java, Python, NodeJS, NestJs
+**Back-end:** .NET, Python, NodeJS, 
 
-**Data-Base**: PostgreSQL, SQL Server
+**Data-Base**: PostgreSQL, SQL Server, MongoDB
 
 **DevOps**: Jira, AzureDevOps
 
